@@ -4,4 +4,4 @@
 C++とか書いてます。
 よろしく
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OishiiShishamo&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OishiiShishamo&show_icons=true&theme=cobalt)
